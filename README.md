@@ -13,10 +13,6 @@ Take a photo which contains an URL to extract it from the photo as a text. After
 ## Introduction Pages
 <div align="center">
 <table>
-<thead>
-  <tr>
-    <th colspan="3">Hello</th>
-  </tr>
 <tbody>
     <tr>
         <td><img src="Screenshots/Intro1.jpg" width="280"/></td>
