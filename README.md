@@ -38,7 +38,7 @@ Take a photo which contains an URL to extract it from the photo as a text. After
 </div>
 
 
-## Detail Page
+## Detail Pages
 <div align="center">
 <table>
 <tbody>
